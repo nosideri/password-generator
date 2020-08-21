@@ -10,8 +10,8 @@ Allows users the options to have lowercase, uppercase, numeric, and/or special c
 * Javascript
 
 ## Website
-https://lernantino.github.io/run-buddy/
-Preview: http://prntscr.com/u3ana1
+* https://nosideri.github.io/password-generator/
+* Preview: http://prntscr.com/u3ana1
 
 ## Contribution
 Made with ❤️ by Madison
