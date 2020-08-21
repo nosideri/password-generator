@@ -14,7 +14,7 @@ Allows users the options to have lowercase, uppercase, numeric, and/or special c
 * Preview: http://prntscr.com/u3ana1
 
 ## Contribution
-Made with ❤️ by Madison
+Made with ❤️ by Madison.
 Starter code from https://github.com/coding-boot-camp/friendly-parakeet
 
 ### ©️2020 nosideri

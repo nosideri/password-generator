@@ -26,6 +26,8 @@ function generatePassword() {
     window.alert("Please choose a valid number between 8 and 128.");
     generatePassword();
   }
+
+  // password string code
   mainString = "";
 
     upperString = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
@@ -58,10 +60,6 @@ function generatePassword() {
     }
     return password;
 }
-
-
-
-// Alert with password
 
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
